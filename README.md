@@ -1,5 +1,8 @@
 # Project-Knowledge-Repository
 
+## Diagram Link
+https://drive.google.com/file/d/1PcMewg3emAtPZEuWKi7oaHgtyJpdKQ69/view?usp=sharing
+
 ## Project Overview
 ---
 The project aims to create a comprehensive knowledge repository that integrates encyclopedia, personal knowledge management, and peer-to-peer functionalities.
